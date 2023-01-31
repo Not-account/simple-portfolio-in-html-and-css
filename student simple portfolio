@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MANUPRAKASH SINGH </title>
+</head>
+<body>
+    <header>
+        <h3>
+            My portfolio.
+        </h3>
+    </header>
+    <main>
+        <section>
+          <p><b>Education details:</b><pre>Uttar predesh techincal university.</pre></p> 
+        </section>
+        <section>
+            <h4 style="color:rgba(207, 40, 63, 0.945)">experince</h4> 
+            <pre>I am currently work in Infobyte.pvt ltd.My role is intership of web development and desigine</pre>
+        </section>
+        
+    </main>
+    <main>
+        <h2 style="color:rgb(235, 18, 18)">EDUCATION DETAILS:</h2>
+        <ul>
+            <li>HIGHT SCHOOL SUBJECT DETAILS:</li>
+            <ul>
+                <li>
+                    <li>HINDI:</li>
+                    <li>ENGLISH:</li>
+                    <li>MATHMATICES:</li>
+                    <li>SOCAL-SCIENCE:</li>
+                    <li>SCIENCE:</li>
+                   <li> ART:</li>
+                </li>
+            </ul>
+            <li>INTERMIDEATE SUBJECT DETAILS:</li>
+            <ul>
+                <li>
+                    MATHMATICES:
+                </li>
+                <li>
+                    ENGLISH:
+                </li>
+                <li>
+                    PHYSICE:
+                </li>
+                <li>
+                    CHIMESTRY:
+                </li>
+                <li>
+                    HINDI:
+                </li>
+            </ul>
+            <li>TECHNICAL SUBJECT DETAILS:</li>
+            <ul>
+                <li>
+                    C LANGUAGE:
+
+                </li>
+                <li>
+                    PYTHON:
+
+                </li>
+                <li>
+                    MATHS 1,2,3:
+
+                </li>
+                <li>
+                    ELECTRONIC SUBJECTS:
+
+                </li>
+               <ol>
+                <li style="color:rgb(241, 28, 28)">
+                    COMMUNICATION SUBJECTS:
+
+                </li>
+                    <li>
+                        COMMUNICATION SYSTEM:
+
+                    </li>
+                    <li>
+                        CONTROL SYSTEM:
+                    </li>
+                    <li>
+                        SENSOR:
+                    </li>
+                    <li>
+                        WIRELESS COMMUNICATION:
+
+                    </li>
+                    <li>
+                        OPTICAL NETWORK:
+
+                    </li>
+                    <li>
+                        IN B.TECT,NEAR ABOUT 48 SUBJECT STUDY IN FOUR YEARS:
+                    </li>
+               </ol>
+                
+                </ul>
+
+            </ul>
+        </ul>
+        <h2 STYLE="COLOR:rgb(230, 20, 20)">EDUCATION PERFORMANCE DETAILS:</h2>
+        <table>
+        <thead>
+            <caption STYLE="COLOR:rgb(44, 209, 44)">
+                ACEADMY PERFORMANCE:
+            </caption>
+            <tr>
+                <th>
+                    QUALIFICATION:
+                </th>
+                <TH>OBTAIN PERCENTAGE:</TH>
+                <TH>TOTAL PERCENTAGE:</TH>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr>
+                <td>HIGH SCHOOL:</td>
+                <td>80%</td>
+                <td>100%</td>
+            </tr>
+            <td>INTERMEDIATE:</td>
+            <Td>70%</Td>
+            <td>100%</td>
+
+            <tr>
+                <td>B.TECH:</td>
+                <td>82%</td>
+                <td>100%</td>
+            </tr>
+        </tbody>
+        </table>
+    </main>
+            
+    </main>
+    <footer>
+        <h3 style="color:rgb(212, 31, 31)">MY contact:</h3>
+        <pre style="color:rgb(38, 38, 216)">email=manuprakashsingh1@gmail.com</pre>
+        <br/>
+        <pre style="color:rgb(94, 25, 158)">phone=8416835869.</pre>
+    </footer>
+    <section>
+        <pre style="color:blueviolet">My Github Account. </pre>
+       
+        <a href="https://github.com/Not-account" target="_main">
+            <img
+            src="https://foundations.projectpythia.org/_images/GitHub-logo.png"
+            alt="Github"
+            height="100"
+        /></a>
+    </section>
+    <div>
+        <h4 style="color:rgb(158, 67, 67)">Adderss in my Home.</h4>
+        <pre>Vill=mishrouli khas.<br/>post-bunkul,deoria.</pre>
+    </div>
+    <div>
+        <p style="color:rgb(197, 46, 134)">my village is located in uttar predesh in deoria distict colunity of all people is honesty.all young person is a invovated mind and created. All women is well educated in gurauated higher education goes for many city.</p>
+    </div>
+</body>
+</html>
